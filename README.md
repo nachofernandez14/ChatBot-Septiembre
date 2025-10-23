@@ -1,3 +1,5 @@
 El objetivo de este proyecto es crear un Bot con roles el cual nos brinde respuestas eficaces y concisas al usuario.
 
 Para ejecutar el proyecto en la terminal es necesario tener instalado python y un entorno virtual, luego de crear el entorno virtual instalamos las bibliotecas incluidas en el archivo requirements.txt y corremos el archivo main.py. En la consola ya nos saldran las indicaciones, primero hay que seleccionar un rol que va a tomar la IA para la respuesta y luego podremos realizarle la consulta normalmente, como dije anteriormente en la consola nos saldran una lista de comandos para limpiar memoria o salir del ChatBot
+
+ACTUALIZACION 23/10 se le agrego un frontend a la app para visualizar los mensajes del chatbot, todavia no esta conectado con el back!!, tambien se arreglo un problema con la API KEY de Gemini
